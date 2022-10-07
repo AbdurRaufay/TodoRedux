@@ -1,0 +1,33 @@
+.edit-remove-div {
+  display: flex;
+}
+.list-div {
+  display: flex;
+  justify-content: end;
+  /* align-items: center; */
+}
+.task {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 50px;
+  margin-left: 10px;
+  font-family: sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  color: white;
+}
+.add-remove {
+  padding: 5px 30px;
+}
+.list-input {
+  width: 500px;
+  background-color: tomato;
+}
+.btn-danger {
+  margin-right: 10px;
+}
+.save-btn {
+  margin-top: 5px;
+  padding: 5px 235px;
+}

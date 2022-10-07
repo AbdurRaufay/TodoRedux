@@ -1,0 +1,10 @@
+.underlined {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
